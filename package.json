@@ -1,5 +1,5 @@
 {
-  "name": "@jbpros/electron-mocha",
+  "name": "jbpros-electron-mocha",
   "version": "8.2.1",
   "description": "Mocha tests in Electron.",
   "main": "lib/main.js",
